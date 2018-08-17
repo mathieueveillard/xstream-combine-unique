@@ -1,0 +1,6 @@
+.vscode
+doc
+node_modules
+.gitignore
+.prettierrc
+src/**/test/*.d.ts
